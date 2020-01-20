@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "glslify": "^7.0.0",
+    "regl": "^1.3.13"
+  }
+}
