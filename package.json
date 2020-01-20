@@ -1,4 +1,7 @@
 {
+  "name": "glsl-cartesian-to-barycentric",
+  "version": "1.0.0",
+  "description": "glslify module to convert cartesian to barycentric coordinates",
   "devDependencies": {
     "glslify": "^7.0.0",
     "regl": "^1.3.13"
